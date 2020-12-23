@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayaseyyadri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF1493&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jaya's Github Stats">
 
 <div align="center">	<div align="center">
-<img align ="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaseyyadri&title_color=FF1493&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Skillset">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaseyyadri&title_color=FF1493&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Skillset">
