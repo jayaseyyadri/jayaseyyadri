@@ -1,4 +1,4 @@
-### 🙏🏼 |Hello 🌎|
+### 🙏🏼 Hello 🌎
 
 Jaya here , I am a student at Codeup , Studying to be a full stack developer
 
