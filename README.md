@@ -28,5 +28,5 @@ Jaya here , I am a student at Codeup , Studying to be a full stack developer
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayaseyyadri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF1493&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jaya's Github Stats">
 <hr>
  
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaseyyadri&title_color=FF1493&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&line_height=20"  height = "20" width = "40" alt="Skillset">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaseyyadri&title_color=FF1493&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&line_height=20"  height = "200" width = "400" alt="Skillset">
 
