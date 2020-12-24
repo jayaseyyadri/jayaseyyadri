@@ -18,6 +18,8 @@ Jaya here , I am a student at Codeup , Studying to be a full stack developer
 <div align="center">	<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayaseyyadri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF1493&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Jaya's Github Stats">
 <hr>
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jayaseyyadri&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Cjayaseyyadri)
   
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
