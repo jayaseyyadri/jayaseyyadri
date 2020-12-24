@@ -14,6 +14,8 @@ Jaya here , I am a student at Codeup , Studying to be a full stack developer
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp;  || 📩 jayaseyyadri@gmail.com
 - 😄 Pronouns: She/her
+<br>
+<hr>
 <strong> Technical Skillset <strong>
  <div align ="center" >
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -30,5 +32,5 @@ Jaya here , I am a student at Codeup , Studying to be a full stack developer
     </div>
 <hr>
  
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaseyyadri&title_color=FF1493&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&line_height=20"  height = "164" width = "494" alt="Skillset">
+//<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jayaseyyadri&title_color=FF1493&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&line_height=20"  height = "164" width = "494" alt="Skillset">
 
