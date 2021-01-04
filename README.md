@@ -7,7 +7,7 @@ Jaya here , I am a student at Codeup , Studying to be a full stack developer
 -->
 
 - 🌱 I’m currently learning : ☕️ Java
-- 👯 I’m looking to collaborate on :projects with HTML/CSS/JS/Java
+- U+1F91D I’m looking to collaborate on :projects with HTML/CSS/JS/Java
 - 🤔 I’m looking for help with ...constantly looking for opportunities to improve my Coding skills
 - 💬 Ask me about: CODING 👩‍💻 || Cooking👩‍🍳 || 🇮🇳 🇰🇼 Culture
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/jaya-lakshmi-7938831b/]">
