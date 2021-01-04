@@ -7,7 +7,7 @@ Jaya here , I am a student at Codeup , Studying to be a full stack developer
 -->
 
 - 🌱 I’m currently learning : ☕️ Java
-- <  "handshake": "https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png?v8",
+- <img src"https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png?v8">
  I’m looking to collaborate on :projects with HTML/CSS/JS/Java
 - 🤔 I’m looking for help with ...constantly looking for opportunities to improve my Coding skills
 - 💬 Ask me about: CODING 👩‍💻 || Cooking👩‍🍳 || 🇮🇳 🇰🇼 Culture
