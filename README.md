@@ -6,10 +6,10 @@ Jaya here , I am a student at Codeup , Studying to be a full stack developer
 **jayaseyyadri/jayaseyyadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- 📝 I’m currently learning : ☕️ Java
- 🤝 looking to collaborate on :projects with HTML/CSS/JS/Java
- 🤔 I’m looking for help with ...constantly looking for opportunities to improve my Coding skills
- 💬 Ask me about: CODING 👩‍💻 || Cooking👩‍🍳 || 🇮🇳 🇰🇼 Culture
+ 📝 I’m currently learning : ☕️ Java <br>
+ 🤝 looking to collaborate on :projects with HTML/CSS/JS/Java<br>
+ 🤔 I’m looking for help with ...constantly looking for opportunities to improve my Coding skills<br>
+ 💬 Ask me about: CODING 👩‍💻 || Cooking👩‍🍳 || 🇮🇳 🇰🇼 Culture <br>
  📫 How to reach me:  <a href="https://www.linkedin.com/in/jaya-lakshmi-7938831b/]">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp;  || 📩 jayaseyyadri@gmail.com
