@@ -32,6 +32,5 @@ Jaya here , I am a student at Codeup , Studying to be a full stack developer
 <img src ="https://github-readme-streak-stats.herokuapp.com/?user=jayaseyyadri"/>
 
 
- ![Profile views](https://gpvc.arturio.dev/[jayaseyyadri])
 
 
