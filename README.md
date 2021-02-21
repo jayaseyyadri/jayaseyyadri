@@ -7,7 +7,7 @@ Jaya here , I am a student at Codeup , Studying to be a full stack developer
 -->
 
  📝 I’m currently learning : Spring Boot <br>
- 🤝 looking to collaborate on :projects with HTML/CSS/JS/Java/mySQL<br>
+ 🤝 looking to collaborate on :projects with HTML/CSS/JS/Java/mySQL/Spring boot <br>
  🤔 I’m looking for help with :Opportunities to improve my Coding skills<br>
  💬 Ask me about: CODING 👩‍💻 || Cooking👩‍🍳 || 🇮🇳 🇰🇼 Culture <br>
  📫 How to reach me:  <a href="https://www.linkedin.com/in/jaya-lakshmi-7938831b/]">
