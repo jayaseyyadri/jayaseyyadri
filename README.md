@@ -6,7 +6,7 @@ Jaya here , I am a student at Codeup , Studying to be a full stack developer
 **jayaseyyadri/jayaseyyadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- 📝 I’m currently learning : CAPSTONE PROJECT :>
+ 📝 I’m currently learning : CAPSTONE PROJECT : Pharmacy manager !! <br>
  🤝 looking to collaborate on :projects with HTML/CSS/JS/Java/mySQL/Spring boot <br>
  🤔 I’m looking for help with :Opportunities to improve my Coding skills<br>
  💬 Ask me about: CODING 👩‍💻 || Cooking👩‍🍳 || 🇮🇳 🇰🇼 Culture <br>
