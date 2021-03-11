@@ -1,12 +1,12 @@
 ### 🙏🏼 Hello 🌎
 
-Jaya here , I am a student at Codeup , Studying to be a full stack developer
+Jaya here ,a full stack developer working on my final Capstone Project
 
 <!--
 **jayaseyyadri/jayaseyyadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- 📝 I’m currently learning : CAPSTONE PROJECT : PharmHands 🖐💊🖐 !! <br>
+ 📝 I’m currently building : CAPSTONE PROJECT : PharmHands 🖐💊🖐 !! <br>
  🤝 looking to collaborate on :projects with HTML/CSS/JS/Java/mySQL/Spring boot <br>
  🤔 I’m looking for help with :Opportunities to improve my Coding skills<br>
  💬 Ask me about: CODING 👩‍💻 || Cooking👩‍🍳 || 🇮🇳 🇰🇼 Culture <br>
