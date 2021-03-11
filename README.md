@@ -7,7 +7,7 @@ Jaya here ,a full stack developer working on my final Capstone Project
 -->
 
  📝 I’m currently building : CAPSTONE PROJECT : PharmHands 🖐💊🖐 !! <br>
- 🤝 looking to collaborate on :projects with HTML/CSS/JS/Java/mySQL/Spring boot <br>
+ 🤝 looking to collaborate on :projects with HTML/CSS/JS/Java/mySQL/Materialize <br>
  🤔 I’m looking for help with :Opportunities to improve my Coding skills<br>
  💬 Ask me about: CODING 👩‍💻 || Cooking👩‍🍳 || 🇮🇳 🇰🇼 Culture <br>
  📫 How to reach me:  <a href="https://www.linkedin.com/in/jaya-lakshmi-7938831b/]">
