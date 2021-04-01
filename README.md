@@ -1,5 +1,5 @@
 ### 🙏🏼 Hello 🌎
- I am Jaya ,a full stack developer working on Capstone Project
+ I am Jaya ,a full stack developer graduated from Codeup!
 
 <!--
 **jayaseyyadri/jayaseyyadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
