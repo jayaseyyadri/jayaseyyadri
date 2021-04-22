@@ -5,7 +5,8 @@
 **jayaseyyadri/jayaseyyadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- 📝 I’m currently working on upkeeping  my coding Skills on Coding Bat !! <br>
+ 📝 I’m currently on @ <a href="https://www.theodinproject.com/">The Odin Project</a>
+ ⚖️ judge on TECHNOVATION GIRLS!! <br>
  🤝 looking to collaborate on :projects with HTML/CSS/JS/Java/mySQL/Materialize <br>
  🤔 I’m looking for help with : Improving my Coding skills<br>
  💬 Ask me about: CODING 👩‍💻 || Cooking👩‍🍳 || 🇮🇳 🇰🇼 Culture <br>
