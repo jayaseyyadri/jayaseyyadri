@@ -6,7 +6,8 @@
 -->
 
  📝 I’m currently on @ <a href="https://www.theodinproject.com/">The Odin Project</a><br>
- ⚖️ Judge on TECHNOVATION GIRLS!! <br>
+ ⚖️ Judge on TECHNOVATION GIRLS!! Check the apps out they are phenomenal!!
+<br>
  Applying for jobs ! 
  
  🤝 looking to collaborate on :projects with HTML/CSS/JS/Java/mySQL/Materialize <br> 
