@@ -6,11 +6,13 @@
 -->
 
  📝 I’m currently on @ <a href="https://www.theodinproject.com/">The Odin Project</a><br>
- ⚖️ Judge on TECHNOVATION GIRLS!! Check the apps out they are phenomenal!!
+ ⚖️ Judge on TECHNOVATION GIRLS!! 
+    
+ 
 <br>
  Applying for jobs ! 
  
- 🤝 looking to collaborate on :projects with HTML/CSS/JS/Java/mySQL/Materialize <br> 
+ 🤝 Looking to collaborate on :projects with HTML/CSS/JS/Java/mySQL/Materialize <br> 
  💬 Ask me about: CODING 👩‍💻 || Cooking👩‍🍳 || 🇮🇳 🇰🇼 Culture <br>
  📫 How to reach me:  <a href="https://www.linkedin.com/in/jaya-lakshmi-7938831b/]">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
