@@ -1,18 +1,9 @@
 ### 🙏🏼 Hello 🌎
- I am Jaya ,a software developer graduated from Codeup!
-
+ I am Jaya ,a software developer
 <!--
 **jayaseyyadri/jayaseyyadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
- 📝 I’m currently on @ <a href="https://www.theodinproject.com/">The Odin Project</a><br>
- ⚖️ Judge on TECHNOVATION GIRLS!! 
-    
  
-<br>
- Applying for jobs ! 
- 
- 🤝 Looking to collaborate on :projects with HTML/CSS/JS/Java/mySQL/Materialize <br> 
  💬 Ask me about: CODING 👩‍💻 || Cooking👩‍🍳 || 🇮🇳 🇰🇼 Culture <br>
  📫 How to reach me:  <a href="https://www.linkedin.com/in/jaya-lakshmi-7938831b/]">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
